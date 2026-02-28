@@ -35,8 +35,11 @@ export default defineGkdApp({
           key: 2,
           fastQuery: true,
           matches:
-            '@View[clickable=true][childCount=0][visibleToUser=true] +2 LinearLayout >2 [vid="sig_ad_privacy_ll"]',
-          snapshotUrls: 'https://i.gkd.li/i/22863334',
+            '@View[clickable=true][childCount=0][visibleToUser=true] +(2,3) LinearLayout >2 [vid="sig_ad_privacy_ll"]',
+          snapshotUrls: [
+            'https://i.gkd.li/i/22863334',
+            'https://i.gkd.li/i/25626004',
+          ],
         },
       ],
     },
