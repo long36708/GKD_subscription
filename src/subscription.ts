@@ -16,12 +16,12 @@ apps.forEach((appConfig) => {
 });
 
 export default defineGkdSubscription({
-  id: 667,
-  name: 'id667的GKD订阅🚀',
+  id: 36708,
+  name: 'long36708的GKD订阅🚀',
   version: 1,
   author: '👻',
   checkUpdateUrl: './gkd.version.json5',
-  supportUri: 'https://github.com/Lin-arm/GKD_subscription/issues/new/choose',
+  supportUri: 'https://github.com/long36708/GKD_subscription/issues/new/choose',
   categories,
   globalGroups,
   apps: rawApps,

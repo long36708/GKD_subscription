@@ -20,27 +20,31 @@ export default defineGkdApp({
       ],
     },
     {
-      key: 10,
-      name: '签到任务',
+      key: 9,
+      name: '功能类-签到任务',
       desc: '自动点击包含【签到】文字的按钮',
       rules: [
         {
+          key: 2,
+          name: '自动点击包含【签到】文字的按钮',
           matches: [
-            "Button[id='com.youdao.note:id/sign_in' && text='签到得空间']",
+            'Button[id="com.youdao.note:id/sign_in" && text="签到得空间"]',
           ],
           fastQuery: true,
-          snapshotUrls: ['https://i.gkd.li/i/your_snapshot_url'],
+          snapshotUrls: [],
           activityIds: ['com.youdao.note.activity2.MainActivity'],
         },
       ],
     },
     {
       key: 20,
-      name: '有道云笔记-领取更多空间(文本)',
+      name: '功能类-领取更多空间',
       actionMaximum: 1,
       rules: [
         {
-          matches: ["TextView[text='领取更多空间']"],
+          key: 3,
+          name: '自动点击领取更多空间',
+          matches: ['TextView[text="领取更多空间"]'],
           activityIds: ['com.youdao.note.activity2.TaskListActivity'],
         },
       ],
