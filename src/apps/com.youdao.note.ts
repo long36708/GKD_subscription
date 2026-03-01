@@ -23,6 +23,7 @@ export default defineGkdApp({
       key: 9,
       name: '功能类-签到任务',
       desc: '自动点击包含【签到】文字的按钮',
+      enable: true,
       rules: [
         {
           key: 2,
@@ -40,6 +41,7 @@ export default defineGkdApp({
       key: 20,
       name: '功能类-领取更多空间',
       actionMaximum: 1,
+      enable: true,
       rules: [
         {
           key: 3,

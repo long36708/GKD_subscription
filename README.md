@@ -1,10 +1,10 @@
 <!-- # @AIsouler/GKD_subscription (Fork版) -->
 
-<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=GKD_subscription&width=800&height=300)](https://github.com/Lin-arm/GKD_subscription) -->
+<!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=GKD_subscription&width=800&height=300)](https://github.com/long36708/GKD_subscription) -->
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=GKD第三方订阅规则&text2=💖%20GKD_subscription&width=800&height=350)](https://github.com/Lin-arm/GKD_subscription)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=GKD第三方订阅规则&text2=💖%20GKD_subscription&width=800&height=350)](https://github.com/long36708/GKD_subscription)
 
-[![Release](https://img.shields.io/badge/release-v424-blue)](https://github.com/Lin-arm/GKD_subscription/releases/latest)
+[![Release](https://img.shields.io/badge/release-v424-blue)](https://github.com/long36708/GKD_subscription/releases/latest)
 [![已适配应用](https://img.shields.io/badge/已适配应用-897-brightgreen)](./dist/README.md#应用规则)
 [![全局规则组](https://img.shields.io/badge/全局规则组-3-blueviolet)](./dist/README.md#全局规则)
 [![应用规则组](https://img.shields.io/badge/应用规则组-2130-orange)](./dist/README.md#应用规则)
@@ -21,13 +21,13 @@
 
 - **致力于编写效率最高、误触最低、覆盖最全面的规则**
 
-- **已适配的规则需要等待发布更新才能生效，北京时间每天凌晨3点会自动发布更新，如果规则没有改动则不会发布更新，在 `GKD订阅界面` 下拉就能检测是否有更新 -> [点击查看更新日志](https://github.com/Lin-arm/GKD_subscription/releases)**
+- **已适配的规则需要等待发布更新才能生效，北京时间每天凌晨3点会自动发布更新，如果规则没有改动则不会发布更新，在 `GKD订阅界面` 下拉就能检测是否有更新 -> [点击查看更新日志](https://github.com/long36708/GKD_subscription/releases)**
 
 - **仅启用 `开屏广告` 一类规则，其它所有规则均需用户手动打开，规则类别里可以批量开启某一类规则，建议按需开启规则，不要无脑开启规则，开启过多规则可能造成规则阻塞从而导致规则触发缓慢甚至不触发，并且规则开启越多耗电也越多 -> [点击查看耗电说明](https://gkd.li/guide/faq#power)**
 
-- **请求适配或报告问题 -> [点击反馈](https://github.com/Lin-arm/GKD_subscription/issues/new/choose)**
+- **请求适配或报告问题 -> [点击反馈](https://github.com/long36708/GKD_subscription/issues/new/choose)**
 
-- **交流讨论（不要在这里反馈） -> [点击查看或开启讨论](https://github.com/Lin-arm/GKD_subscription/discussions)**
+- **交流讨论（不要在这里反馈） -> [点击查看或开启讨论](https://github.com/long36708/GKD_subscription/discussions)**
 
 - **欢迎贡献规则，提交pr前请确认您已仔细阅读 [贡献指南](./CONTRIBUTING.md) 和 [API文档](https://gkd.li/api/)，规则编写可参考 [个人收集的通用规则以及适用场景](./docs/Selectors.md)**
 
@@ -44,7 +44,7 @@ https://gkd-subscription-667.pages.dev/gkd.json5
 - GitHub源
 
 ```txt
-https://raw.githubusercontent.com/Lin-arm/GKD_subscription/main/dist/gkd.json5
+https://raw.githubusercontent.com/long36708/GKD_subscription/main/dist/gkd.json5
 ```
 
 <details>
@@ -53,13 +53,13 @@ https://raw.githubusercontent.com/Lin-arm/GKD_subscription/main/dist/gkd.json5
 - jsdelivr源 (国内可用但可能不稳定,更新滞后24h)
 
 ```txt
-https://cdn.jsdelivr.net/gh/Lin-arm/GKD_subscription@main/dist/gkd.json5
+https://cdn.jsdelivr.net/gh/long36708/GKD_subscription@main/dist/gkd.json5
 ```
 
 - bgithub源 (国内可用,同步及时30min内,但可能随时挂掉！)
 
 ```txt
-https://raw.bgithub.xyz/Lin-arm/GKD_subscription/main/dist/gkd.json5
+https://raw.bgithub.xyz/long36708/GKD_subscription/main/dist/gkd.json5
 ```
 
 </details>
@@ -89,7 +89,7 @@ https://raw.bgithub.xyz/Lin-arm/GKD_subscription/main/dist/gkd.json5
 
 ## 🥇感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=Lin-arm/GKD_subscription&_v=424)
+![img](https://contrib.rocks/image?repo=long36708/GKD_subscription&_v=424)
 
 ## 📈Star History
 
