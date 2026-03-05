@@ -46,7 +46,7 @@ export default defineGkdApp({
         {
           key: 3,
           name: '自动点击领取更多空间',
-          matches: ['TextView[text="领取更多空间"]'],
+          matches: ['TextView[text="签到得空间"]'],
           activityIds: ['com.youdao.note.activity2.TaskListActivity'],
           snapshotUrls: 'https://i.gkd.li/i/25659676',
         },
